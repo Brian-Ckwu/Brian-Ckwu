@@ -1,4 +1,14 @@
-### Hi there 👋
+### About Me
+I'm a researcher, programmer, and licensed medical doctor. I am enthusiastic about developing AI applications and conducting AI research to revolutionize healthcare.
+
+### Skills
+* Medicine 💊
+* Deep Learning 🧠
+* Natural Language Processing 🔤
+
+### Publications
+1. **Large Language Models Perform Diagnostic Reasoning** `ICLR 2023 (Tiny Papers)`
+    *Cheng-Kuang Wu\*, Wei-Lin Chen\*, Hsin-Hsi Chen* [[Paper](https://openreview.net/forum?id=N0lQfjeNWOE)][[Code](https://github.com/nlplab-best-team/diagnostic-reasoning)], 2023.5
 
 <!--
 **Brian-Ckwu/Brian-Ckwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
