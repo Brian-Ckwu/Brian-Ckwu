@@ -8,7 +8,9 @@ I'm a researcher, programmer, and licensed medical doctor. I am enthusiastic abo
 * Natural Language Processing 🔤
 
 ### Experience
-1. **Machine Learning Scientist Intern** [@Vysioneer](https://www.vysioneer.com/) `2023.7 - 2023.10` <br>
+1. **LLM Research Scientist Intern** [@Appier](https://www.appier.com/en/) `2024.1 - present` <br>
+   Conduct research projects on LLMs.
+2. **Machine Learning Scientist Intern** [@Vysioneer](https://www.vysioneer.com/) `2023.7 - 2023.10` <br>
    Develop machine learning algorithms for identifying medical image modalities.
 
 ### Publications
