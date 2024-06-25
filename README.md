@@ -14,13 +14,17 @@ I'm a researcher, programmer, and licensed medical doctor. I am enthusiastic abo
    Develop machine learning algorithms for identifying medical image modalities.
 
 ### Publications
-1. **Self-ICL: Zero-Shot In-Context Learning with Self-Generated Demonstrations** `EMNLP 2023 (Long Paper)`<br>
+1. **StreamBench: Towards Benchmarking Continuous Improvement of Language Agents** `arXiv preprint` <br>
+    *Cheng-Kuang Wu\*, Zhi Rui Tam\*, Chieh-Yen Lin, Yun-Nung Chen, Hung-yi Lee* [[Paper](https://arxiv.org/abs/2406.08747)][[Code](https://github.com/stream-bench/stream-bench)], 2024.06
+2. **Unveiling Selection Biases: Exploring Order and Token Sensitivity in Large Language Models** `ACL 2024 (Findings Paper)` <br>
+    *Sheng-Lun Wei, Cheng-Kuang Wu, Hen-Hsen Huang, Hsin-Hsi Chen* [[Paper](https://arxiv.org/abs/2406.03009)], 2024.06
+3. **Self-ICL: Zero-Shot In-Context Learning with Self-Generated Demonstrations** `EMNLP 2023 (Long Paper)`<br>
     *Wei-Lin Chen\*, Cheng-Kuang Wu\*, Yun-Nung Chen, Hsin-Hsi Chen* [[Paper](https://arxiv.org/abs/2305.15035)][[Code](https://github.com/ntunlplab/Self-ICL)], 2023.10
-2. **Fidelity-Enriched Contrastive Search: Reconciling the Faithfulness-Diversity Trade-Off in Text Generation** `EMNLP 2023 (Short Paper)` <br>
+4. **Fidelity-Enriched Contrastive Search: Reconciling the Faithfulness-Diversity Trade-Off in Text Generation** `EMNLP 2023 (Short Paper)` <br>
     *Wei-Lin Chen, Cheng-Kuang Wu, Hsin-Hsi Chen, Chung-Chi Chen* [[Paper](https://arxiv.org/abs/2310.14981)][[Code](https://github.com/ntunlplab/FECS)], 2023.10
-3. **ZARA: Improving Few-Shot Self-Rationalization for Small Language Models** `EMNLP 2023 (Findings Paper)` <br>
+5. **ZARA: Improving Few-Shot Self-Rationalization for Small Language Models** `EMNLP 2023 (Findings Paper)` <br>
     *Wei-Lin Chen, An-Zi Yen, Cheng-Kuang Wu, Hen-Hsen Huang, Hsin-Hsi Chen* [[Paper](https://arxiv.org/abs/2305.07355)][[Code](https://github.com/ntunlplab/ZARA)]
-4. **Large Language Models Perform Diagnostic Reasoning** `ICLR 2023 (Tiny Papers)` <br>
+6. **Large Language Models Perform Diagnostic Reasoning** `ICLR 2023 (Tiny Papers)` <br>
     *Cheng-Kuang Wu\*, Wei-Lin Chen\*, Hsin-Hsi Chen* [[Paper](https://openreview.net/forum?id=N0lQfjeNWOE)][[Code](https://github.com/nlplab-best-team/diagnostic-reasoning)], 2023.5
 
 \* Equal contribution
